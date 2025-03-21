@@ -48,3 +48,6 @@ jobs:
           cluster: ${{ secrets.CLUSTER_NAME }}
           service: ${{ secrets.SERVICE_NAME }}
           wait-for-service-stability: true
+          
+            
+          
